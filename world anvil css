@@ -2,5 +2,5 @@
  font-family: Isendraki;
  font-style: normal;
  font-weight: 400;
- src: url(https://rawcdn.githack.com/sunnyloaf/Isendraki-Font/tree/main) ;
+ src: url(https://rawcdn.githack.com/sunnyloaf/Isendraki-Font/042b9b9c2e8cc624c87117a5736f1c17a2048ef1/Isendraki.ttf) ;
 }
